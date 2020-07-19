@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "formik": "^2.1.4",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.25.3",
     "mongodb-stitch-react-native-sdk": "^4.8.0",
     "mongoose": "^5.9.11",
