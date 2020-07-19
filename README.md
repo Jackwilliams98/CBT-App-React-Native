@@ -1,1 +1,3 @@
 # CBT-App 
+
+Cognitive behavioural therapy (or CBT) is a talking therapy to help you manage how you think and behave. A personal diary is one of the methods used to help a patient undergoing CBT. The purpose of a diary is to keep a record of different events or experiences that happen on a daily occurrence. This is used by the therapist to gain a better understanding of how a patient handles certain situations, and for patients to self-reflect on their behavioural patterns. In this modern era, traditional paper diaries can be troublesome due to the potential lack of confidentiality and impracticality of having one on hand at all times.
